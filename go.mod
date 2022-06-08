@@ -1,4 +1,4 @@
-module github.com/gammazero/workerpool
+module github.com/yulin-li/workerpool
 
 require (
 	github.com/gammazero/deque v0.2.0
